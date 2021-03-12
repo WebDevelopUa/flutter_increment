@@ -1,4 +1,4 @@
-# Flutter Fetch Images App
+# Flutter Increment App
 
 #### A new Flutter pet-project
 
